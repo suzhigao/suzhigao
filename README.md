@@ -1,6 +1,6 @@
 ### Hi there 👋
-💬 Ask me about https://suzhigao66.top/ ...
-📫 How to reach me: 1763489853@qq.com ...
+### 💬 Ask me about https://suzhigao66.top/ 
+### 📫 How to reach me: 1763489853@qq.com 
 
 <!--
 **suzhigao/suzhigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
